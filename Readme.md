@@ -44,7 +44,7 @@ All data and chat history are stored locally:
 ---
 
 ## 🏗️ Project Structure
-
+```
 smart-medical-booking-agent/
 │
 ├── app.py
@@ -68,7 +68,7 @@ smart-medical-booking-agent/
 │
 ├── input_prompt.py
 └── README.md
-
+```
 
 ---
 
