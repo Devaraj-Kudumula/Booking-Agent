@@ -1,0 +1,28 @@
+{
+    "Devaa": [
+        {
+            "user": "I am having headache",
+            "ai": "I'm sorry to hear that you're experiencing a headache, Devaa. Would you like me to help you find a nearby hospital or book an appointment with a doctor in Hyderabad for your headache?\n\nIf you have any specific preferences, such as a particular hospital or doctor, please let me know. Would you like to proceed with finding hospitals or booking an appointment?"
+        },
+        {
+            "user": "yes",
+            "ai": "Here are some top hospitals and clinics in Hyderabad that specialize in headache treatment:\n\n1. Continental Hospitals \u2013 Headache Clinic: Specialized clinic for all types of headaches and migraines.\n2. PACE Hospitals: Renowned for specialized care for all types of headaches.\n3. Citi Neuro Centre: Experts in migraine and headache management.\n4. Yashoda Hospitals: Multiple locations with doctors specializing in headache treatment.\n5. Care Hospitals: Offers therapies and lifestyle guidance for migraine headaches.\n\nWould you like to book an appointment at any of these hospitals, or do you have a preference for a specific hospital or doctor? If you let me know your choice, I can help you with the next steps."
+        },
+        {
+            "user": "book appointment at 1st hospital tomorrow 11",
+            "ai": "Your appointment is confirmed with a Headache Specialist at Continental Hospitals \u2013 Headache Clinic tomorrow at 11:00 AM.\n\nWould you like directions to the hospital, or do you need any help preparing for your visit? If you have any other questions or need to reschedule, just let me know!"
+        },
+        {
+            "user": "show all my bookings",
+            "ai": "You currently have the following booking:\n\n- Appointment with a Headache Specialist at Continental Hospitals \u2013 Headache Clinic\n- Date & Time: Tomorrow at 11:00 AM\n- Status: Confirmed\n\nWould you like to keep this appointment, or do you want to make any changes or book another appointment? Let me know how you'd like to proceed!"
+        },
+        {
+            "user": "cancel my headache appointment",
+            "ai": "Your appointment with the Headache Specialist at Continental Hospitals \u2013 Headache Clinic for tomorrow at 11:00 AM has been cancelled.\n\nIf you need to reschedule or book a new appointment, please let me know. Is there anything else I can assist you with today?"
+        },
+        {
+            "user": "book another slot for tomorrow 11",
+            "ai": "Your appointment with the Headache Specialist at Continental Hospitals \u2013 Headache Clinic is confirmed for tomorrow at 11:00 AM.\n\nWould you like directions to the hospital, or do you need any additional information or assistance before your visit? Let me know how I can help!"
+        }
+    ]
+}
